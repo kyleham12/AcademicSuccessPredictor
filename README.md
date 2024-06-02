@@ -10,3 +10,5 @@ on the input data. The tool then outputs a message whether the student is more l
 The image above is after the user inputting the student data and pressing the button to predict on the data.
 After predicting on the data, the model predicts that the student is going to graduate based on the input data 
 processed by the model.
+
+run with: python cs171proj_ui.py
