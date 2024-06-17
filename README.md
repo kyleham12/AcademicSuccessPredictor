@@ -1,4 +1,4 @@
-# cs171proj
+# Academic Success Predictor
 Machine Learning project for cs 171 final
 
 This academic success predictor tool accurately predicts whether a student will graduate or dropout of college.
